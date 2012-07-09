@@ -1,0 +1,4 @@
+[13-Oct-2009 11:14:00] PHP Warning:  array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array in /home/rahego/public_html/triopic/classes/OrderHistory.php on line 124
+[14-Oct-2009 09:11:12] PHP Warning:  htmlentities() [<a href='function.htmlentities'>function.htmlentities</a>]: Invalid multibyte sequence in argument in /home/rahego/public_html/triopic/classes/Tools.php on line 290
+[15-Oct-2009 13:38:41] PHP Warning:  array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array in /home/rahego/public_html/triopic/classes/OrderHistory.php on line 124
+[15-Oct-2009 14:34:16] PHP Warning:  array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array in /home/rahego/public_html/triopic/classes/OrderHistory.php on line 124
